@@ -42,7 +42,7 @@ int main() {
     std::cout << "Mutqagreq matric A\n";
     A.input();
 
-    std::cout << "Mutqagreq tiv (orinak 5)\n";
+    std::cout << "Mutqagreq tiv \n";
     std::cin >> num;
 
     C = A * num;   
